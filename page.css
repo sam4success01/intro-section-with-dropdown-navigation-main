@@ -57,6 +57,10 @@ nav a:hover{
   font-size: 4em;
 }
 
+.content p {
+  width: 70%;
+  text-align: justify;
+}
 .content button{
   background-color: black;
   padding: 0.8em;
